@@ -1,2 +1,2 @@
-# visualizer-2
+# visualizer²
 Algorithm visualizer.
