@@ -1,2 +1,2 @@
 # visualizer²
-Algorithm visualizer.
+Math and algorithm visualizer.
